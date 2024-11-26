@@ -1,0 +1,186 @@
+---
+title: "Social media in comparative politics"
+author: "Sebastian Stier"
+lesson: 6
+institute: Teaching Presentation University of Hamburg, Summer semester 2025
+date: "2025-05-13"
+date-format: "YYYY-MM-DD"
+bibliography: references.bib
+footer: "[Data Science in Comparative Politics](https://sebstier.github.io/ds_comp_pol25/)"
+format: 
+  fakegesis-revealjs: 
+    code-line-numbers: false
+
+---
+
+
+##
+
+```{r, echo=FALSE, warning=FALSE, out.width="105%", message=FALSE}
+library(openxlsx)
+library(tidyverse)
+library(gapminder)
+library(plotly)
+library(gt)
+library(gtExtras)
+read.xlsx("../material/data/schedule.xlsx") %>%
+    rename(`Required reading` = "Required.reading") %>%
+    head(6) %>% 
+    gt() %>%
+    tab_header(md("**Seminar dates and topics**")) %>%
+    #tab_header("**Seminar dates and topics**") %>%
+    #fmt_markdown() %>% #columns = TRUE
+    # cols_width(Date ~ px(400)#,
+    #            #Topics ~ px(350)#,
+    #            #`Required reading` ~ px(400)
+    #            ) %>%
+    cols_width(Date ~ pct(20),
+               Topics ~ pct(30),
+               `Required reading` ~ pct(50)
+               ) %>%
+    tab_options(data_row.padding = px(3)) %>%
+    tab_options(heading.title.font.size = 14,
+                column_labels.font.weight = "bold",
+                table.font.size = 13.5) %>%
+     gt_highlight_rows(
+     rows = 6,
+     fill = "lightblue"
+   ) %>% 
+  fmt_markdown() %>% 
+  cols_align(
+    align = "left",
+    columns = everything()
+  )
+
+
+```
+
+
+## Agenda for today
+
+
+1. Recap
+
+2. Social media data in political science
+
+3. Text as data in *R*
+
+4. Text as data in political science
+
+
+## Learning objectives for today
+
+After this class you will be able to... 
+
+1. describe the role of social media and politics,
+2. critically reflect upon the value of social media data in comparative politics,
+3. work with text as data using *quanteda* in R.
+
+
+# 1. Recap {background-color="#58748F"}
+
+
+```{r}
+# Inspecting the dataset
+head(gapminder)
+
+```
+
+
+```{r}
+#| echo: fenced
+#| output-location: column-fragment
+#| code-line-numbers: "|2"
+
+library(ggplot2)
+
+mtcars |> 
+  ggplot(aes(x = disp, y = mpg)) +
+  geom_point() +
+  geom_smooth(method = "loess", formula = "y~x")
+```
+
+
+# 2. Social media data in political science {background-color="#58748F"}
+
+
+## Think-pair-share
+
+1. Discuss the literature for today with your neighbor (5 min.)
+2. Focus on the used methods, their pros and cons, feasibility, etc. 
+3. Locate our two required readings on the map of @grimmer_text_2013
+4. Share and discuss your results with the full class
+
+
+
+## Format of the reviews
+- Guiding questions:
+
+::: {style="font-size: 90%;"}
+    - Describe what problem or question these papers address and the main contributions that they make towards a solution or answer. 
+    
+    - Reflect on the main strengths and weaknesses of these papers.
+    
+    - What are the concepts, assumed social mechanisms and operationalizations used in the papers?
+    
+    - What are the data in use? How are the data analyzed? Does this seem appropriate?
+    
+    - How convincing do you find the arguments presented by the authors? Are the conclusions backed up by the empirical results?
+    
+    - Do you see any ethical concerns?
+    
+    - If papers are empirical, how do you judge their replicability?
+    
+    - If applicable, are there commonalities or differences between the two papers? How do they relate to each other?
+    
+:::
+
+
+
+# 3. Text as data in *R* {background-color="#58748F"}
+
+
+## Automated text analysis in *R*
+
+![](../material/img/quanteda){fig-align="center"}
+
+::: {style="font-size: 30%;"}
+Benoit, K., Watanabe, K., Wang, H., Nulty, P., Obeng, A., Müller, S., Matsuo, A., Perry, P. O., Kuha, J., & Lauderdale, B. (2018). quanteda: An R package for the quantitative analysis of textual data. [*Journal of Open Source Software*, 3(30), 774.](https://joss.theoj.org/papers/10.21105/joss.00774)
+
+:::
+
+
+## Trump Twitter Archive
+
+
+![](../material/img/trump_twitter){width=100%}
+
+
+::: {style="font-size: 40%;"}
+[https://www.thetrumparchive.com](https://www.thetrumparchive.com)
+:::
+
+
+## Coding
+- Download file **06_text_as_data.R** from [https://sebastianstier.com/ds_comp_pol25/material.html](https://sebastianstier.com/ds_comp_pol25/material.html)
+- Open it in *RStudio* within your project
+
+
+
+# 4. Text as data in political science {background-color="#58748F"} 
+
+
+## Automated text analysis: The menu of options
+
+![](../material/img/grimmer_stewart){fig-align="center"}
+
+::: {style="font-size: 30%;"}
+Grimmer, J., & Stewart, B. M. (2013). Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts. [*Political Analysis*, 21(3), 267--297.](https://doi.org/10.1093/pan/mps028)
+
+:::
+
+
+
+# Thank you for your attention! See you on May 20 2025 {background-color="#58748F"} 
+
+## References
