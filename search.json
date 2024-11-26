@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Data Science in Comparative Politics",
     "section": "",
-    "text": "Lecturer\nSebastian Stier\nProfessor @ University of Mannheim & Scientific Director Department Computational Social Science @ GESIS\n\nAbout the course\nIn this course, students learn about applications of data science in comparative politics. The course will be application oriented. Students will familiarize themselves with the main applications of data science methods and implement them in R. The range of applications will cover data management and preprocessing, data and results visualization, statistical data analysis, text as data methods and the validation of results. The hands-on application examples will cover questions from various research fields and different data types like country-level data or social media data. Equipped with this theoretical and methodological toolkit, students will develop their own data science research projects.\nSchedule\n\n\n\n\n\n\n\n\n\n\n\n\n\nSeminar dates and topics\n\n\nDate\nTopics\nRequired reading\n\n\n\n\n8 April 2025\n\nIntroduction and expectations\nSetup in R\n\n\n\n\n15 April 2025\n\nFoundations of data science\nFoundations of comparative politics\nThe tidyverse in R\n\nCaramani, D. (Ed.). (2017). Comparative politics (4th edition). Oxford University Press.  Lazer, D., & Radford, J. (2017). Data ex Machina: Introduction to Big Data. Annual Review of Sociology, 43(1), 19–39.\n\n\n22 April 2025\n\nDemocracy and autocracy\nData sources in comparative politics\nData wrangling in R: joining, grouping and reshaping data\n\nCoppedge, M., Gerring, J., Knutsen, C. H., Lindberg, S. I., Teorell, J., Altman, D., Angiolillo, F., Bernhard, M., Borella, C., & Cornell, A. (2024). V-Dem Codebook v14.  Moses, J., & Knutsen, T. L. (2012). The comparative method. In J. Moses & T. L. Knutsen (Eds.), Ways of knowing: Competing methodologies in social and political research (2. ed, pp. 94–115). Palgrave Macmillan.\n\n\n29 April 2025\n\nParty competition and ideology in Europe\nParty manifestos and legislative speech\nData visualization in R\n\nKriesi, H., & Hutter, S. (2019). Crises and the transformation of the national political space in Europe. In H. Kriesi & S. Hutter (Eds.), European party politics in times of crisis (pp. 3–32). Cambridge University Press. Sebők, M., Proksch, S.-O., Rauh, C., Visnovitz, P., Balázs, G., & Schwalbach, J. (2023). Comparative European legislative research in the age of large-scale computational text analysis: A review article. International Political Science Review.\n\n\n6 May 2025\n\nThe Internet and democracy\nRegression analysis and presentation of results in R\n\nKeremoğlu, E., & Weidmann, N. B. (2020). How dictators control the internet: A review essay. Comparative Political Studies, 53(10–11), 1690–1703.  Tucker, J. A., Theocharis, Y., Roberts, M. E., & Barberá, P. (2017). From liberation to turmoil: Social media and democracy. Journal of Democracy, 28(4), 46–59.\n\n\n13 May 2025\n\nSocial media in comparative politics\nText as data in R\n\nBarberá, P., Gohdes, A. R., Iakhnis, E., & Zeitzoff, T. (2024). Distract and Divert: How World Leaders Use Social Media During Contentious Politics. The International Journal of Press/Politics, 29(1), 47–73.  Grimmer, J., & Stewart, B. M. (2013). Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts. Political Analysis, 21(3), 267–297.\n\n\n\n\n\n\n\nSoftware\n\nR\nA text editor, e.g. RStudio\nQuarto"
+    "text": "Lecturer\nSebastian Stier\nProfessor @ University of Mannheim & Scientific Director Department Computational Social Science @ GESIS\n\nAbout the course\nStudents will learn about applications of data science in comparative politics. The course will be application oriented. Students will familiarize themselves with the main applications of data science methods and implement them in R. The range of applications will cover data management and preprocessing, data and results visualization, statistical data analysis, text as data methods and the validation of results. The hands-on application examples will cover questions from various research fields and different data types like country-level data or social media data. Equipped with this theoretical and methodological toolkit, students will develop their own data science research projects.\nSchedule\n\n\n\n\n\n\n\n\n\n\n\n\n\nSeminar dates and topics\n\n\nDate\nTopics\nRequired reading\n\n\n\n\n8 April 2025\n\nIntroduction and expectations\nSetup in R\n\n\n\n\n15 April 2025\n\nFoundations of data science\nFoundations of comparative politics\nThe tidyverse in R\n\nCaramani, D. (Ed.). (2017). Comparative politics (4th edition). Oxford University Press.  Lazer, D., & Radford, J. (2017). Data ex Machina: Introduction to Big Data. Annual Review of Sociology, 43(1), 19–39.\n\n\n22 April 2025\n\nDemocracy and autocracy\nData sources in comparative politics\nData wrangling in R: joining, grouping and reshaping data\n\nCoppedge, M., Gerring, J., Knutsen, C. H., Lindberg, S. I., Teorell, J., Altman, D., Angiolillo, F., Bernhard, M., Borella, C., & Cornell, A. (2024). V-Dem Codebook v14.  Moses, J., & Knutsen, T. L. (2012). The comparative method. In J. Moses & T. L. Knutsen (Eds.), Ways of knowing: Competing methodologies in social and political research (2. ed, pp. 94–115). Palgrave Macmillan.\n\n\n29 April 2025\n\nParty competition and ideology in Europe\nParty manifestos and legislative speech\nData visualization in R\n\nKriesi, H., & Hutter, S. (2019). Crises and the transformation of the national political space in Europe. In H. Kriesi & S. Hutter (Eds.), European party politics in times of crisis (pp. 3–32). Cambridge University Press. Sebők, M., Proksch, S.-O., Rauh, C., Visnovitz, P., Balázs, G., & Schwalbach, J. (2023). Comparative European legislative research in the age of large-scale computational text analysis: A review article. International Political Science Review.\n\n\n6 May 2025\n\nThe Internet and democracy\nRegression analysis and presentation of results in R\n\nKeremoğlu, E., & Weidmann, N. B. (2020). How dictators control the internet: A review essay. Comparative Political Studies, 53(10–11), 1690–1703.  Tucker, J. A., Theocharis, Y., Roberts, M. E., & Barberá, P. (2017). From liberation to turmoil: Social media and democracy. Journal of Democracy, 28(4), 46–59.\n\n\n13 May 2025\n\nSocial media in comparative politics\nText as data in R\n\nBarberá, P., Gohdes, A. R., Iakhnis, E., & Zeitzoff, T. (2024). Distract and Divert: How World Leaders Use Social Media During Contentious Politics. The International Journal of Press/Politics, 29(1), 47–73.  Grimmer, J., & Stewart, B. M. (2013). Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts. Political Analysis, 21(3), 267–297.\n\n\n\n\n\n\n\nSoftware\n\nR\nA text editor, e.g. RStudio\nQuarto"
   },
   {
     "objectID": "slides.html",
@@ -67,7 +67,7 @@
     "href": "slides/01_introduction.html#agenda-for-today",
     "title": "Social media in comparative politics",
     "section": "Agenda for today",
-    "text": "Agenda for today\n\nRecap\nSocial media data in political science\nText as data in R\nText as data in political science"
+    "text": "Agenda for today\n\nRecap\nSocial media in political science\nIntroduction to text as data in R\nText as data in political science"
   },
   {
     "objectID": "slides/01_introduction.html#learning-objectives-for-today",
@@ -77,18 +77,67 @@
     "text": "Learning objectives for today\nAfter this class you will be able to…\n\ndescribe the role of social media and politics,\ncritically reflect upon the value of social media data in comparative politics,\nwork with text as data using quanteda in R."
   },
   {
-    "objectID": "slides/01_introduction.html#think-pair-share",
-    "href": "slides/01_introduction.html#think-pair-share",
+    "objectID": "slides/01_introduction.html#country-year-macro-data",
+    "href": "slides/01_introduction.html#country-year-macro-data",
     "title": "Social media in comparative politics",
-    "section": "Think-pair-share",
-    "text": "Think-pair-share\n\nDiscuss the literature for today with your neighbor (5 min.)\nFocus on the used methods, their pros and cons, feasibility, etc.\nLocate our two required readings on the map of Grimmer and Stewart (2013)\nShare and discuss your results with the full class"
+    "section": "Country-year macro data",
+    "text": "Country-year macro data\n\nhead(gapminder)"
+  },
+  {
+    "objectID": "slides/01_introduction.html#data-visualization",
+    "href": "slides/01_introduction.html#data-visualization",
+    "title": "Social media in comparative politics",
+    "section": "Data visualization",
+    "text": "Data visualization\n\n\n\n\n\n\n\n\n\n\n\n# Plot\nggplot(gapminder, aes(x = gdpPercap, \n                      y = lifeExp)) + \n  geom_point(alpha = 0.6) +\n  geom_smooth(method = \"loess\") + \n  scale_x_log10() + \n  labs(title = \"GDP/Capita and Life Expectancy\", \n       x = \"GDP/Capita (logged)\", \n       y = \"Life Expectancy (in years)\")"
+  },
+  {
+    "objectID": "slides/01_introduction.html#social-networking-sites",
+    "href": "slides/01_introduction.html#social-networking-sites",
+    "title": "Social media in comparative politics",
+    "section": "Social networking sites",
+    "text": "Social networking sites\n\n“We define social network sites as web-based services that allow individuals to\n\nconstruct a public or semi-public profile within a bounded system,\narticulate a list of other users with whom they share a connection, and\nview and traverse their list of connections and those made by others within the system.\n\nThe nature and nomenclature of these connections may vary from site to site.” (boyd and Ellison 2007: 211)"
+  },
+  {
+    "objectID": "slides/01_introduction.html#twitterx",
+    "href": "slides/01_introduction.html#twitterx",
+    "title": "Social media in comparative politics",
+    "section": "Twitter/X",
+    "text": "Twitter/X\n\n\nhttps://x.com/WWF_Deutschland/status/1684871776822542338"
+  },
+  {
+    "objectID": "slides/01_introduction.html#societal-relevance-of-twitter",
+    "href": "slides/01_introduction.html#societal-relevance-of-twitter",
+    "title": "Social media in comparative politics",
+    "section": "Societal relevance of Twitter",
+    "text": "Societal relevance of Twitter\n\n\nWhat is the share of weekly Twitter users among the German population?\n\n\n\n\n\nhttps://www.ard-zdf-medienstudie.de/files/Download-Archiv/Medienstudie_2024/Basispraesentation_ARD-ZDF-Medienstudie_2024.pdf"
+  },
+  {
+    "objectID": "slides/01_introduction.html#societal-relevance-of-twitter-1",
+    "href": "slides/01_introduction.html#societal-relevance-of-twitter-1",
+    "title": "Social media in comparative politics",
+    "section": "Societal relevance of Twitter",
+    "text": "Societal relevance of Twitter\n\n\nWhat is the share of German federal election candidates with a Twitter account?\n\n\n\n\n\nSältzer, M., & Stier, S. (2022). Die Bundestagswahl 2021 auf Twitter. easy social sciences, 67, 30-38."
+  },
+  {
+    "objectID": "slides/01_introduction.html#why-social-media-still-matter",
+    "href": "slides/01_introduction.html#why-social-media-still-matter",
+    "title": "Social media in comparative politics",
+    "section": "Why social media still matter",
+    "text": "Why social media still matter\n\nHybrid media system (Chadwick 2013): Journalists and (political) elites are disproportionately active on Twitter\n\n\n\n“Twitter in the News” (Oschatz, Stier, and Maier 2021)\n\n\n\n\nAgenda setting: Emerging societal topics like #metoo or #blacklivesmatter\n\n\n\n\nImportant platform for (transnational) mobilization, e.g., Fridays for Future (Schürmann 2024)"
+  },
+  {
+    "objectID": "slides/01_introduction.html#think-pair-share-social-media-data-in-political-science",
+    "href": "slides/01_introduction.html#think-pair-share-social-media-data-in-political-science",
+    "title": "Social media in comparative politics",
+    "section": "Think-pair-share: Social media data in political science",
+    "text": "Think-pair-share: Social media data in political science\n\n\n\nDiscuss the literature for today with your neighbor (5 min.)\nFocus on the used methods, their pros and cons, feasibility, etc.\nWhat are the advantages of social media data for comparative politics?\nShare and discuss your results with the full class\n\n\n\n\nBarberá, P., Gohdes, A. R., Iakhnis, E., & Zeitzoff, T. (2024). Distract and Divert: How World Leaders Use Social Media During Contentious Politics. The International Journal of Press/Politics, 29(1), 47–73."
   },
   {
     "objectID": "slides/01_introduction.html#format-of-the-reviews",
     "href": "slides/01_introduction.html#format-of-the-reviews",
     "title": "Social media in comparative politics",
     "section": "Format of the reviews",
-    "text": "Format of the reviews\n\nGuiding questions:\n\n\n- Describe what problem or question these papers address and the main contributions that they make towards a solution or answer. \n\n- Reflect on the main strengths and weaknesses of these papers.\n\n- What are the concepts, assumed social mechanisms and operationalizations used in the papers?\n\n- What are the data in use? How are the data analyzed? Does this seem appropriate?\n\n- How convincing do you find the arguments presented by the authors? Are the conclusions backed up by the empirical results?\n\n- Do you see any ethical concerns?\n\n- If papers are empirical, how do you judge their replicability?\n\n- If applicable, are there commonalities or differences between the two papers? How do they relate to each other?"
+    "text": "Format of the reviews\nGuiding questions\n\n- Describe what problem or question these papers address and the main contributions that they make towards a solution or answer. \n\n- Reflect on the main strengths and weaknesses of these papers.\n\n- What are the concepts, assumed social mechanisms and operationalizations used in the papers?\n\n- What are the data in use? How are the data analyzed? Does this seem appropriate?\n\n- How convincing do you find the arguments presented by the authors? Are the conclusions backed up by the empirical results?\n\n- Do you see any ethical concerns?\n\n- If papers are empirical, how do you judge their replicability?\n\n- If applicable, are there commonalities or differences between the two papers? How do they relate to each other?"
   },
   {
     "objectID": "slides/01_introduction.html#automated-text-analysis-in-r",
@@ -109,7 +158,7 @@
     "href": "slides/01_introduction.html#coding",
     "title": "Social media in comparative politics",
     "section": "Coding",
-    "text": "Coding\n\nDownload file 06_text_as_data.R from https://sebastianstier.com/ds_comp_pol25/material.html\nOpen it in RStudio within your project"
+    "text": "Coding\n\nDownload file 06_text_as_data.R from https://sebastianstier.com/ds_comp_pol25/material.html\nOpen the script in RStudio within your project"
   },
   {
     "objectID": "slides/01_introduction.html#automated-text-analysis-the-menu-of-options",
@@ -119,11 +168,39 @@
     "text": "Automated text analysis: The menu of options\n\n\nGrimmer, J., & Stewart, B. M. (2013). Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts. Political Analysis, 21(3), 267–297."
   },
   {
+    "objectID": "slides/01_introduction.html#important-terms",
+    "href": "slides/01_introduction.html#important-terms",
+    "title": "Social media in comparative politics",
+    "section": "Important terms",
+    "text": "Important terms\n\nDocument: the main unit of analysis containing the text\n\nThere might be document-level variables like an author, time, source, etc.\n\nCorpus: a collection of several documents\nToken: converting a sequence of text into smaller parts, e.g., words\nDocument-Feature Matrix (DFM): a matrix of documents and features (tokens)\nStopwords: commonly used words in a language (e.g., the, a, are) that do not carry much useful information when you want to classify text"
+  },
+  {
+    "objectID": "slides/01_introduction.html#from-text-to-numbers-word-to-word-matrix",
+    "href": "slides/01_introduction.html#from-text-to-numbers-word-to-word-matrix",
+    "title": "Social media in comparative politics",
+    "section": "From text to numbers: word-to-word matrix",
+    "text": "From text to numbers: word-to-word matrix"
+  },
+  {
+    "objectID": "slides/01_introduction.html#from-text-to-numbers-a-document-feature-matrix",
+    "href": "slides/01_introduction.html#from-text-to-numbers-a-document-feature-matrix",
+    "title": "Social media in comparative politics",
+    "section": "From text to numbers: a document-feature matrix",
+    "text": "From text to numbers: a document-feature matrix\n\n\n\n\n\nBag-of-words representation of text"
+  },
+  {
+    "objectID": "slides/01_introduction.html#distributional-semantics",
+    "href": "slides/01_introduction.html#distributional-semantics",
+    "title": "Social media in comparative politics",
+    "section": "Distributional semantics",
+    "text": "Distributional semantics\n\nA word’s meaning is given by the words that frequently appear close by\n\\(\\rightarrow\\) One of the most successful ideas in Natural Language Processing\nContext\n\\(\\rightarrow\\) When a word appears in a text, its context is a set of words that appear nearby (within a fixed window): car, street, traffic"
+  },
+  {
     "objectID": "slides/01_introduction.html#references",
     "href": "slides/01_introduction.html#references",
     "title": "Social media in comparative politics",
     "section": "References",
-    "text": "References\n\n\n\nData Science in Comparative Politics\n\n\n\n\nGrimmer, Justin, and Brandon M. Stewart. 2013. “Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.” Political Analysis 21 (3): 267–97. https://doi.org/10.1093/pan/mps028."
+    "text": "References\n\n\n\nData Science in Comparative Politics\n\n\n\n\nboyd, danah m., and Nicole B. Ellison. 2007. “Social Network Sites: Definition, History, and Scholarship.” Journal of Computer-Mediated Communication 13 (1): 210–30. https://doi.org/10.1111/j.1083-6101.2007.00393.x.\n\n\nChadwick, Andrew. 2013. The Hybrid Media System: Politics and Power. Oxford: Oxford University Press.\n\n\nOschatz, Corinna, Sebastian Stier, and Jürgen Maier. 2021. “Twitter in the News: An Analysis of Embedded Tweets in Political News Coverage.” Digital Journalism. https://doi.org/10.1080/21670811.2021.1912624.\n\n\nSchürmann, Lennart. 2024. “The Impact of Local Protests on Political Elite Communication: Evidence from Fridays for Future in Germany.” Journal of Elections, Public Opinion and Parties 34 (3): 510–30. https://doi.org/10.1080/17457289.2023.2189729."
   },
   {
     "objectID": "myenv/lib/python3.13/site-packages/idna-3.10.dist-info/LICENSE.html",
