@@ -1,10 +1,12 @@
 project:
   type: website
-  lib-dir: "libs"
+  output-dir: docs
+  #lib-dir: "libs"
+  #output-dir: _site
 
 website:
   title: "Data Science in Comparative Politics"
-  site-url: "https://sebstier.github.io/ds_comp_pol25/"
+  site-url: "https://sebastianstier.com/ds_comp_pol25/"
   search: false
   navbar:
     left:

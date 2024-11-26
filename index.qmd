@@ -1,6 +1,6 @@
 ---
 title: Data Science in Comparative Politics
-subtitle: "Teaching Presentation University of Hamburg, Summer semester 2025"
+subtitle: "Teaching Presentation @ University of Hamburg, Summer semester 2025"
 section-divs: false
 toc: false
 title-block-banner: "#58748F"
@@ -21,9 +21,7 @@ Professor \@ University of Mannheim & Scientific Director Department Computation
 
 ## About the course
 
-Computational Social Science (CSS) is a young research field at the intersection of various social science disciplines, data science and computer science. The goal is to gain new insights into society through large amounts of data and the direct observation of human behavior. CSS relies on two cornerstones: digital behavioral data, which can be collected from online platforms or sensors like smartphones, and computer science methods such as automated text analysis to create appropriate measures for social science research questions. In the course, students will get to know foundational studies, theories and methods used in the field of CSS. We will discuss infrastructural, ethical and legal challenges and how to navigate these to devise appropriate research designs in CSS.
-
-The course will be application oriented. Students will familiarize themselves with the main applications of CSS methods and implement them in R. The range of applications will cover data management and preprocessing, the application of machine learning, data and results visualization, statistical data analysis and the validation of results. The hands-on application examples will cover questions from various research fields and different data types like social media data or web browsing histories. Equipped with this theoretical and methodological toolkit, students will develop their own CSS research projects.
+In this course, students learn about applications of data science in comparative politics. The course will be application oriented. Students will familiarize themselves with the main applications of data science methods and implement them in R. The range of applications will cover data management and preprocessing, data and results visualization, statistical data analysis, text as data methods and the validation of results. The hands-on application examples will cover questions from various research fields and different data types like country-level data or social media data. Equipped with this theoretical and methodological toolkit, students will develop their own data science research projects.
 
 ## Schedule
 
