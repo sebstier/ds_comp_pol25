@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "myenv/lib/python3.13/site-packages/httpcore-1.0.6.dist-info/licenses/LICENSE.html",
+    "href": "myenv/lib/python3.13/site-packages/httpcore-1.0.6.dist-info/licenses/LICENSE.html",
+    "title": "Data Science in Comparative Politics",
+    "section": "",
+    "text": "Copyright © 2020, Encode OSS Ltd. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  {
+    "objectID": "myenv/lib/python3.13/site-packages/soupsieve-2.6.dist-info/licenses/LICENSE.html",
+    "href": "myenv/lib/python3.13/site-packages/soupsieve-2.6.dist-info/licenses/LICENSE.html",
+    "title": "Data Science in Comparative Politics",
+    "section": "",
+    "text": "MIT License\nCopyright (c) 2018 - 2024 Isaac Muse isaacmuse@gmail.com\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Science in Comparative Politics",
+    "section": "",
+    "text": "Lecturer\nSebastian Stier\nProfessor @ University of Mannheim & Scientific Director Department Computational Social Science @ GESIS\n\nAbout the course\nComputational Social Science (CSS) is a young research field at the intersection of various social science disciplines, data science and computer science. The goal is to gain new insights into society through large amounts of data and the direct observation of human behavior. CSS relies on two cornerstones: digital behavioral data, which can be collected from online platforms or sensors like smartphones, and computer science methods such as automated text analysis to create appropriate measures for social science research questions. In the course, students will get to know foundational studies, theories and methods used in the field of CSS. We will discuss infrastructural, ethical and legal challenges and how to navigate these to devise appropriate research designs in CSS.\nThe course will be application oriented. Students will familiarize themselves with the main applications of CSS methods and implement them in R. The range of applications will cover data management and preprocessing, the application of machine learning, data and results visualization, statistical data analysis and the validation of results. The hands-on application examples will cover questions from various research fields and different data types like social media data or web browsing histories. Equipped with this theoretical and methodological toolkit, students will develop their own CSS research projects.\nSchedule\n\n\n\n\n\n\n\n\n\n\n\n\n\nSeminar dates and topics\n\n\nDate\nTopics\nRequired reading\n\n\n\n\n8 April 2025\n\nIntroduction and expectations\nSetup in R\n\n\n\n\n15 April 2025\n\nFoundations of data science\nFoundations of comparative politics\nThe tidyverse in R\n\nCaramani, D. (Ed.). (2017). Comparative politics (4th edition). Oxford University Press.  Lazer, D., & Radford, J. (2017). Data ex Machina: Introduction to Big Data. Annual Review of Sociology, 43(1), 19–39.\n\n\n22 April 2025\n\nDemocracy and autocracy\nData sources in comparative politics\nData wrangling in R: joining, grouping and reshaping data\n\nCoppedge, M., Gerring, J., Knutsen, C. H., Lindberg, S. I., Teorell, J., Altman, D., Angiolillo, F., Bernhard, M., Borella, C., & Cornell, A. (2024). V-Dem Codebook v14.  Moses, J., & Knutsen, T. L. (2012). The comparative method. In J. Moses & T. L. Knutsen (Eds.), Ways of knowing: Competing methodologies in social and political research (2. ed, pp. 94–115). Palgrave Macmillan.\n\n\n29 April 2025\n\nParty competition and ideology in Europe\nParty manifestos and legislative speech\nData visualization in R\n\nKriesi, H., & Hutter, S. (2019). Crises and the transformation of the national political space in Europe. In H. Kriesi & S. Hutter (Eds.), European party politics in times of crisis (pp. 3–32). Cambridge University Press. Sebők, M., Proksch, S.-O., Rauh, C., Visnovitz, P., Balázs, G., & Schwalbach, J. (2023). Comparative European legislative research in the age of large-scale computational text analysis: A review article. International Political Science Review.\n\n\n6 May 2025\n\nThe Internet and democracy\nRegression analysis and presentation of results in R\n\nKeremoğlu, E., & Weidmann, N. B. (2020). How dictators control the internet: A review essay. Comparative Political Studies, 53(10–11), 1690–1703.  Tucker, J. A., Theocharis, Y., Roberts, M. E., & Barberá, P. (2017). From liberation to turmoil: Social media and democracy. Journal of Democracy, 28(4), 46–59.\n\n\n13 May 2025\n\nSocial media in comparative politics\nText as data in R\n\nBarberá, P., Gohdes, A. R., Iakhnis, E., & Zeitzoff, T. (2024). Distract and Divert: How World Leaders Use Social Media During Contentious Politics. The International Journal of Press/Politics, 29(1), 47–73.  Grimmer, J., & Stewart, B. M. (2013). Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts. Political Analysis, 21(3), 267–297.\n\n\n\n\n\n\n\nSoftware\n\nR\nA text editor, e.g. RStudio\nQuarto"
+  },
+  {
+    "objectID": "slides.html",
+    "href": "slides.html",
+    "title": "Data Science in Comparative Politics",
+    "section": "",
+    "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 13, 2025\n\n\nSocial media in comparative politics\n\n\nSebastian Stier\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "slides.html#slides",
+    "href": "slides.html#slides",
+    "title": "Data Science in Comparative Politics",
+    "section": "",
+    "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 13, 2025\n\n\nSocial media in comparative politics\n\n\nSebastian Stier\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "material.html",
+    "href": "material.html",
+    "title": "Data Science in Comparative Politics",
+    "section": "",
+    "text": "File Name\n\n\nModified\n\n\n\n\n\n\n06_text_as_data.R\n\n\n11/26/24, 6:16:45 PM\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "material.html#material-for-sessions",
+    "href": "material.html#material-for-sessions",
+    "title": "Data Science in Comparative Politics",
+    "section": "",
+    "text": "File Name\n\n\nModified\n\n\n\n\n\n\n06_text_as_data.R\n\n\n11/26/24, 6:16:45 PM\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "slides/01_introduction.html#section",
+    "href": "slides/01_introduction.html#section",
+    "title": "Social media in comparative politics",
+    "section": "",
+    "text": "Seminar dates and topics\n\n\nDate\nTopics\nRequired reading\n\n\n\n\n8 April 2025\n\nIntroduction and expectations\nSetup in R\n\n\n\n\n15 April 2025\n\nFoundations of data science\nFoundations of comparative politics\nThe tidyverse in R\n\nCaramani, D. (Ed.). (2017). Comparative politics (4th edition). Oxford University Press.  Lazer, D., & Radford, J. (2017). Data ex Machina: Introduction to Big Data. Annual Review of Sociology, 43(1), 19–39.\n\n\n22 April 2025\n\nDemocracy and autocracy\nData sources in comparative politics\nData wrangling in R: joining, grouping and reshaping data\n\nCoppedge, M., Gerring, J., Knutsen, C. H., Lindberg, S. I., Teorell, J., Altman, D., Angiolillo, F., Bernhard, M., Borella, C., & Cornell, A. (2024). V-Dem Codebook v14.  Moses, J., & Knutsen, T. L. (2012). The comparative method. In J. Moses & T. L. Knutsen (Eds.), Ways of knowing: Competing methodologies in social and political research (2. ed, pp. 94–115). Palgrave Macmillan.\n\n\n29 April 2025\n\nParty competition and ideology in Europe\nParty manifestos and legislative speech\nData visualization in R\n\nKriesi, H., & Hutter, S. (2019). Crises and the transformation of the national political space in Europe. In H. Kriesi & S. Hutter (Eds.), European party politics in times of crisis (pp. 3–32). Cambridge University Press. Sebők, M., Proksch, S.-O., Rauh, C., Visnovitz, P., Balázs, G., & Schwalbach, J. (2023). Comparative European legislative research in the age of large-scale computational text analysis: A review article. International Political Science Review.\n\n\n6 May 2025\n\nThe Internet and democracy\nRegression analysis and presentation of results in R\n\nKeremoğlu, E., & Weidmann, N. B. (2020). How dictators control the internet: A review essay. Comparative Political Studies, 53(10–11), 1690–1703.  Tucker, J. A., Theocharis, Y., Roberts, M. E., & Barberá, P. (2017). From liberation to turmoil: Social media and democracy. Journal of Democracy, 28(4), 46–59.\n\n\n13 May 2025\n\nSocial media in comparative politics\nText as data in R\n\nBarberá, P., Gohdes, A. R., Iakhnis, E., & Zeitzoff, T. (2024). Distract and Divert: How World Leaders Use Social Media During Contentious Politics. The International Journal of Press/Politics, 29(1), 47–73.  Grimmer, J., & Stewart, B. M. (2013). Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts. Political Analysis, 21(3), 267–297."
+  },
+  {
+    "objectID": "slides/01_introduction.html#agenda-for-today",
+    "href": "slides/01_introduction.html#agenda-for-today",
+    "title": "Social media in comparative politics",
+    "section": "Agenda for today",
+    "text": "Agenda for today\n\nRecap\nSocial media data in political science\nText as data in R\nText as data in political science"
+  },
+  {
+    "objectID": "slides/01_introduction.html#learning-objectives-for-today",
+    "href": "slides/01_introduction.html#learning-objectives-for-today",
+    "title": "Social media in comparative politics",
+    "section": "Learning objectives for today",
+    "text": "Learning objectives for today\nAfter this class you will be able to…\n\ndescribe the role of social media and politics,\ncritically reflect upon the value of social media data in comparative politics,\nwork with text as data using quanteda in R."
+  },
+  {
+    "objectID": "slides/01_introduction.html#think-pair-share",
+    "href": "slides/01_introduction.html#think-pair-share",
+    "title": "Social media in comparative politics",
+    "section": "Think-pair-share",
+    "text": "Think-pair-share\n\nDiscuss the literature for today with your neighbor (5 min.)\nFocus on the used methods, their pros and cons, feasibility, etc.\nLocate our two required readings on the map of Grimmer and Stewart (2013)\nShare and discuss your results with the full class"
+  },
+  {
+    "objectID": "slides/01_introduction.html#format-of-the-reviews",
+    "href": "slides/01_introduction.html#format-of-the-reviews",
+    "title": "Social media in comparative politics",
+    "section": "Format of the reviews",
+    "text": "Format of the reviews\n\nGuiding questions:\n\n\n- Describe what problem or question these papers address and the main contributions that they make towards a solution or answer. \n\n- Reflect on the main strengths and weaknesses of these papers.\n\n- What are the concepts, assumed social mechanisms and operationalizations used in the papers?\n\n- What are the data in use? How are the data analyzed? Does this seem appropriate?\n\n- How convincing do you find the arguments presented by the authors? Are the conclusions backed up by the empirical results?\n\n- Do you see any ethical concerns?\n\n- If papers are empirical, how do you judge their replicability?\n\n- If applicable, are there commonalities or differences between the two papers? How do they relate to each other?"
+  },
+  {
+    "objectID": "slides/01_introduction.html#automated-text-analysis-in-r",
+    "href": "slides/01_introduction.html#automated-text-analysis-in-r",
+    "title": "Social media in comparative politics",
+    "section": "Automated text analysis in R",
+    "text": "Automated text analysis in R\n\n\nBenoit, K., Watanabe, K., Wang, H., Nulty, P., Obeng, A., Müller, S., Matsuo, A., Perry, P. O., Kuha, J., & Lauderdale, B. (2018). quanteda: An R package for the quantitative analysis of textual data. Journal of Open Source Software, 3(30), 774."
+  },
+  {
+    "objectID": "slides/01_introduction.html#trump-twitter-archive",
+    "href": "slides/01_introduction.html#trump-twitter-archive",
+    "title": "Social media in comparative politics",
+    "section": "Trump Twitter Archive",
+    "text": "Trump Twitter Archive\n\n\nhttps://www.thetrumparchive.com"
+  },
+  {
+    "objectID": "slides/01_introduction.html#coding",
+    "href": "slides/01_introduction.html#coding",
+    "title": "Social media in comparative politics",
+    "section": "Coding",
+    "text": "Coding\n\nDownload file 06_text_as_data.R from https://sebastianstier.com/ds_comp_pol25/material.html\nOpen it in RStudio within your project"
+  },
+  {
+    "objectID": "slides/01_introduction.html#automated-text-analysis-the-menu-of-options",
+    "href": "slides/01_introduction.html#automated-text-analysis-the-menu-of-options",
+    "title": "Social media in comparative politics",
+    "section": "Automated text analysis: The menu of options",
+    "text": "Automated text analysis: The menu of options\n\n\nGrimmer, J., & Stewart, B. M. (2013). Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts. Political Analysis, 21(3), 267–297."
+  },
+  {
+    "objectID": "slides/01_introduction.html#references",
+    "href": "slides/01_introduction.html#references",
+    "title": "Social media in comparative politics",
+    "section": "References",
+    "text": "References\n\n\n\nData Science in Comparative Politics\n\n\n\n\nGrimmer, Justin, and Brandon M. Stewart. 2013. “Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.” Political Analysis 21 (3): 267–97. https://doi.org/10.1093/pan/mps028."
+  },
+  {
+    "objectID": "myenv/lib/python3.13/site-packages/idna-3.10.dist-info/LICENSE.html",
+    "href": "myenv/lib/python3.13/site-packages/idna-3.10.dist-info/LICENSE.html",
+    "title": "Data Science in Comparative Politics",
+    "section": "",
+    "text": "BSD 3-Clause License\nCopyright (c) 2013-2024, Kim Davies and contributors. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  {
+    "objectID": "myenv/lib/python3.13/site-packages/httpx-0.27.2.dist-info/licenses/LICENSE.html",
+    "href": "myenv/lib/python3.13/site-packages/httpx-0.27.2.dist-info/licenses/LICENSE.html",
+    "title": "Data Science in Comparative Politics",
+    "section": "",
+    "text": "Copyright © 2019, Encode OSS Ltd. All rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  {
+    "objectID": "myenv/lib/python3.13/site-packages/pyzmq-26.2.0.dist-info/licenses/LICENSE.html",
+    "href": "myenv/lib/python3.13/site-packages/pyzmq-26.2.0.dist-info/licenses/LICENSE.html",
+    "title": "Data Science in Comparative Politics",
+    "section": "",
+    "text": "BSD 3-Clause License\nCopyright (c) 2009-2012, Brian Granger, Min Ragan-Kelley\nAll rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\nNeither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  }
+]
