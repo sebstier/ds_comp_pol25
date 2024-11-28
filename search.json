@@ -74,7 +74,7 @@
     "href": "slides/01_introduction.html#learning-objectives-for-today",
     "title": "Social media in comparative politics",
     "section": "Learning objectives for today",
-    "text": "Learning objectives for today\nAfter this class you will be able to…\n\ndescribe the role of social media and politics,\ncritically reflect upon the value of social media data in comparative politics,\nwork with text as data using quanteda in R."
+    "text": "Learning objectives for today\nAfter this class you will be able to…\n\ndescribe the role of social media in politics,\ncritically reflect upon the value of social media data in comparative politics,\nwork with text as data using quanteda in R."
   },
   {
     "objectID": "slides/01_introduction.html#country-year-macro-data",
@@ -102,14 +102,14 @@
     "href": "slides/01_introduction.html#twitterx",
     "title": "Social media in comparative politics",
     "section": "Twitter/X",
-    "text": "Twitter/X\n\n\nhttps://x.com/WWF_Deutschland/status/1684871776822542338"
+    "text": "Twitter/X\n\n\n\n\nhttps://x.com/WWF_Deutschland/status/1684871776822542338\n\n\n\n\nThe following examples will focus on Twitter/X.\nSome of these arguments apply to other platforms as well…\n…but each platform has specific affordances and different user bases."
   },
   {
     "objectID": "slides/01_introduction.html#societal-relevance-of-twitter",
     "href": "slides/01_introduction.html#societal-relevance-of-twitter",
     "title": "Social media in comparative politics",
     "section": "Societal relevance of Twitter",
-    "text": "Societal relevance of Twitter\n\n\nWhat is the share of weekly Twitter users among the German population?\n\n\n\n\n\nhttps://www.ard-zdf-medienstudie.de/files/Download-Archiv/Medienstudie_2024/Basispraesentation_ARD-ZDF-Medienstudie_2024.pdf"
+    "text": "Societal relevance of Twitter\n\n\nWhat is the share of weekly Twitter users among the German population (14 years or older)?\n\n\n\n\n\nhttps://www.ard-zdf-medienstudie.de/files/Download-Archiv/Medienstudie_2024/Basispraesentation_ARD-ZDF-Medienstudie_2024.pdf"
   },
   {
     "objectID": "slides/01_introduction.html#societal-relevance-of-twitter-1",
@@ -119,25 +119,39 @@
     "text": "Societal relevance of Twitter\n\n\nWhat is the share of German federal election candidates with a Twitter account?\n\n\n\n\n\nSältzer, M., & Stier, S. (2022). Die Bundestagswahl 2021 auf Twitter. easy social sciences, 67, 30-38."
   },
   {
-    "objectID": "slides/01_introduction.html#why-social-media-still-matter",
-    "href": "slides/01_introduction.html#why-social-media-still-matter",
+    "objectID": "slides/01_introduction.html#how-social-media-matter-politically",
+    "href": "slides/01_introduction.html#how-social-media-matter-politically",
     "title": "Social media in comparative politics",
-    "section": "Why social media still matter",
-    "text": "Why social media still matter\n\nHybrid media system (Chadwick 2013): Journalists and (political) elites are disproportionately active on Twitter\n\n\n\n“Twitter in the News” (Oschatz, Stier, and Maier 2021)\n\n\n\n\nAgenda setting: Emerging societal topics like #metoo or #blacklivesmatter\n\n\n\n\nImportant platform for (transnational) mobilization, e.g., Fridays for Future (Schürmann 2024)"
+    "section": "How social media matter politically",
+    "text": "How social media matter politically\n\nHybrid media system (Chadwick 2013): Journalists and (political) elites are disproportionately active on Twitter\n\n\n\n“Twitter in the News” (Oschatz, Stier, and Maier 2021)\n\n\n\n\nAgenda setting: Emerging societal topics like #metoo or #blacklivesmatter\n\n\n\n\nImportant platform for (transnational) mobilization, e.g., Fridays for Future (Schürmann 2024)"
   },
   {
     "objectID": "slides/01_introduction.html#think-pair-share-social-media-data-in-political-science",
     "href": "slides/01_introduction.html#think-pair-share-social-media-data-in-political-science",
     "title": "Social media in comparative politics",
     "section": "Think-pair-share: Social media data in political science",
-    "text": "Think-pair-share: Social media data in political science\n\n\n\nDiscuss the literature for today with your neighbor (5 min.)\nFocus on the used methods, their pros and cons, feasibility, etc.\nWhat are the advantages of social media data for comparative politics?\nShare and discuss your results with the full class\n\n\n\n\nBarberá, P., Gohdes, A. R., Iakhnis, E., & Zeitzoff, T. (2024). Distract and Divert: How World Leaders Use Social Media During Contentious Politics. The International Journal of Press/Politics, 29(1), 47–73."
+    "text": "Think-pair-share: Social media data in political science\n\n\n\n\nDiscuss the literature for today with your neighbor (7 min.)\nFocus on the used methods, their pros and cons, feasibility, etc.\nWhat are the advantages of social media data for comparative politics?\nShare and discuss your results with the full class\n\n\n\n\n\nBarberá, P., Gohdes, A. R., Iakhnis, E., & Zeitzoff, T. (2024). Distract and Divert: How World Leaders Use Social Media During Contentious Politics. The International Journal of Press/Politics, 29(1), 47–73."
   },
   {
-    "objectID": "slides/01_introduction.html#format-of-the-reviews",
-    "href": "slides/01_introduction.html#format-of-the-reviews",
+    "objectID": "slides/01_introduction.html#theory-and-causal-mechanisms",
+    "href": "slides/01_introduction.html#theory-and-causal-mechanisms",
     "title": "Social media in comparative politics",
-    "section": "Format of the reviews",
-    "text": "Format of the reviews\nGuiding questions\n\n- Describe what problem or question these papers address and the main contributions that they make towards a solution or answer. \n\n- Reflect on the main strengths and weaknesses of these papers.\n\n- What are the concepts, assumed social mechanisms and operationalizations used in the papers?\n\n- What are the data in use? How are the data analyzed? Does this seem appropriate?\n\n- How convincing do you find the arguments presented by the authors? Are the conclusions backed up by the empirical results?\n\n- Do you see any ethical concerns?\n\n- If papers are empirical, how do you judge their replicability?\n\n- If applicable, are there commonalities or differences between the two papers? How do they relate to each other?"
+    "section": "Theory and causal mechanisms",
+    "text": "Theory and causal mechanisms"
+  },
+  {
+    "objectID": "slides/01_introduction.html#applications-to-election-prediction",
+    "href": "slides/01_introduction.html#applications-to-election-prediction",
+    "title": "Social media in comparative politics",
+    "section": "Applications to election prediction",
+    "text": "Applications to election prediction\n\n\nTumasjan, A., Sprenger, T. O., Sandner, P. G., & Welpe, I. M. (2010). Predicting elections with Twitter: What 140 characters reveal about political sentiment. In: Proceedings of the 4th International AAAI Conference on Weblogs and Social Media (pp. 178–185).\n\n\n\nJungherr, A., Jürgens, P., & Schoen, H. (2012). Why the Pirate Party Won the German Election of 2009 or The Trouble With Predictions. Social Science Computer Review, 30(2), 229–234."
+  },
+  {
+    "objectID": "slides/01_introduction.html#the-micro-macro-link",
+    "href": "slides/01_introduction.html#the-micro-macro-link",
+    "title": "Social media in comparative politics",
+    "section": "The micro-macro link",
+    "text": "The micro-macro link\n\n\nJungherr, A., Schoen, H., & Jürgens, P. (2016). The Mediation of Politics through Twitter: An Analysis of Messages posted during the Campaign for the German Federal Election 2013. Journal of Computer-Mediated Communication, 21(1), 50–68.\nSee also: Coleman, J. S. (1990). Foundations of social theory. Belknap Press of Harvard University Press."
   },
   {
     "objectID": "slides/01_introduction.html#automated-text-analysis-in-r",
@@ -158,7 +172,7 @@
     "href": "slides/01_introduction.html#coding",
     "title": "Social media in comparative politics",
     "section": "Coding",
-    "text": "Coding\n\nDownload file 06_text_as_data.R from https://sebastianstier.com/ds_comp_pol25/material.html\nOpen the script in RStudio within your project"
+    "text": "Coding\n\nDownload file 06_text_as_data.R from https://sebastianstier.com/ds_comp_pol25/material.html\nOpen the script in RStudio within your project for the class"
   },
   {
     "objectID": "slides/01_introduction.html#automated-text-analysis-the-menu-of-options",
